@@ -8,6 +8,4 @@ Bu proje, temel CRUD işlemlerini ve kullanıcı etkileşimlerini öğrenmek ama
 
 Bu projenin amacı, kullanıcıların günlük görevlerini daha düzenli bir şekilde yönetmesini sağlamak ve JavaScript ile temel web uygulaması geliştirme becerilerini geliştirmektir.
 
-## 📄 Lisans
 
-Bu proje eğitim amaçlı geliştirilmiştir.
